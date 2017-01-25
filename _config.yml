@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            هنگام
 tagline:          'Hengam'
 description: 
-url:
+url:			http://hengamcommunity.github.io
 baseurl:          
 
 author:
