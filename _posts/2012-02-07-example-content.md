@@ -1,0 +1,6 @@
+---
+layout: post
+title: Hengam English
+---
+
+<p style="text-align: justify;">One of the fundamental flaws of human nature is our tendency to put things off. We view the change or the unknown as scary, so it&rsquo;s easier to stay in our comfortable routines than to reach out for something different. We justify it by saying we&rsquo;ll do it &lsquo;someday&rsquo;, but too often &lsquo;someday&rsquo; never comes.<br /><br />So stop putting stuff off. <br /><br />Here we introduce HENGAM program that focuses on tasks we know we have to deal with, but we tend to postpone them to a later time, until it is already too late to be accomplished. <br /><br />We all manage to convince ourselves that we have lots of time, that we can always get X done at a later date, that over the course of 80 or 90 or 100 years we&rsquo;ll get everything done. But those things don&rsquo;t just do themselves, and (downer alert) you don&rsquo;t know you have that many years left. Do something today that you wouldn&rsquo;t have otherwise done. You only have so many chances &ndash; don&rsquo;t waste one.<br /><br />Join us in this and together we are going to reach a brighter future.<br /><br />Your hosts this Sunday will be Navid and Milad at Shiraz Art House, from 9 to 11 in the evening.</p>
