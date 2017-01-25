@@ -11,7 +11,7 @@ title:            هنگام
 tagline:          'Hengam'
 description: 
 url:              http://hengamcommunity.github.io
-baseurl:          /
+baseurl:          "
 
 author:
   name:           'Farzin Mohammadi'
@@ -20,7 +20,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          2.1.2
 
 github:
   repo:           https://github.com/hengamcommunity/hengamcommunity.github.io
