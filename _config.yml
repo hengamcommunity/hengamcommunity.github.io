@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            هنگام
 tagline:          'Hengam'
 description: 
-url:              http://hengamcommunity.github.io
-baseurl:          /
+url:
+baseurl:          
 
 author:
   name:           'Farzin Mohammadi'
